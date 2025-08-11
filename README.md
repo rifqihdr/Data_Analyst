@@ -1,4 +1,4 @@
-# **Market Research for Business Growth: Customer Behavior Analysis for a Garment Company in Bandung**
+# **Market Research for Business Growth:Customer Behavior Analysis for a Garment Company in Bandung**
 
 ## 🎯 **Project Overview**
 Proyek ini dirancang untuk mendukung peningkatan penjualan e-commerce pada sebuah perusahaan garmen di Bandung. Walaupun telah memiliki banyak pelanggan, perusahaan masih kesulitan dalam memahami kebiasaan dan preferensi belanja mereka. Untuk itu, dilakukan analisis data pelanggan dan transaksi menggunakan pendekatan data mining seperti clustering, decision tree, dan association rule mining guna merumuskan strategi pemasaran yang lebih tepat sasaran. 
